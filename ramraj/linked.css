@@ -1,0 +1,6 @@
+*{margin: 0px; padding: 0px;}
+
+.top {display: flex; justify-content: space-between;}
+
+.top3 ul{display: flex; }
+

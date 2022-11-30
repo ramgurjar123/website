@@ -1,0 +1,15 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+
+.main{ display: flex; justify-content: space-around;  height: 100vh;  align-items: center;}
+
+
+.pic{position: relative;}
+
+
+.big{border-radius: 50; height: 100px; width: 120px; border-radius: 50%;}
+
+
+.small{border-radius: 50%; border: 2px solid red;
+    position: absolute; top:0%; right: 0; height: 50px ; width: 50px;
+
+}

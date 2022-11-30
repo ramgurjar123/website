@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.top3 ul{display: flex;}
+
+.top3 li {list-style: none;}
+.top3 ul a {text-decoration: none ;}
+.top3 ul  li{margin: 10px;}
+
+.pic{height: 200px; height: 400px; }
+
+.pic img{height: auto; width: 100%;}
+
+.mid{display: flex; justify-content: space-between;}
+.mid2{padding: 100px; width: 400px;  }
+.mid2 p{padding-top: 20px; padding-bottom: 20px;  }
+.pic{padding-right: 50px;}
+
+.many {padding-top: 70px; text-align: center; }
+
+.pic2{height: 50px;width: 500px; display: flex; padding-left: 100px; padding-top: 50px;}
+
+.pic2 img{height: auto; width: 100%;}
+
+.meet{display: flex; justify-content: center; padding: 52px;}
+
+.amer{display: flex; justify-content: center;}
+
+.amer img{height: 80px; width: 100px;}
+
+.amer1 {border: 1px solid greenyellow; text-align: center; margin-right: 30px;   border-radius: 10px; padding: 40px;}
+
+.amer2{border: 1px solid greenyellow; text-align: center; border-radius: 10px; padding: 40px;}
+
+.amer3{border: 1px solid greenyellow; margin-left: 30px; border-radius: 10px; padding: 40px ; text-align: center;}
+
+.amer {height:300px; width: 900px; margin-left: 200px; }
+
+.tt a{text-decoration: none;}
+
+.photo{background-image: url(https://www.codebase.com/wp-content/uploads/2022/04/our-commitment-bg-1.jpeg);
+    height: 700px; width: 100%; background-size: cover;
+
+}
+.past1{display: flex;justify-content: center; margin-top: 200px; text-align: center; margin-bottom: 40px;}
+.photo1 h1{display: flex; justify-content: center;padding-top: 20px;margin-top: 20px; }
+
+.past{color: rgb(95, 232, 57);  width: 100px; height: auto ;  border: 1px solid yellow;  height: 200px; width: 200px; margin:10px;
+    padding: 10px; text-align: center;font-weight: bold; border-radius: 20px;
+ }
+
+.past img {height: 50px; width: 70px;  }
+
+.past p{padding-top: 20px;}
+
+.for{display: flex; padding: 20px;}
+.for2{display: flex; padding: 20px;}
+
+.for img{height: 50px; width: 100px;}
+
+.for2 img{height: 50px; width: 100px;}
+.how2{display: flex; align-items: center;}
+
+.how3{padding: 40px;}
+
+.ram h1{border: 4px solid blue; width: 20px; height: 15px; border-radius: 100%; text-align: center;
+    color: blue;
+
+}
+.raja h1{margin-top: 50px; font-weight: bold;}
+.ram h1{padding: 20px; text-align: center; margin-top: 20px;}
+.how3 h2{padding: 5px;}
+.how3{margin-top: 20px;}
+
+.hire{display: flex; justify-content: center; margin: 20px; }
+.hire h3{margin: 10px;}
+.hire1{background-color: blue; padding: 20px;}
+
+.base{background-color: rgb(8, 5, 112); height: 100px; }
+
+.base h2{padding-top: 50px; margin-left: 50px; border-bottom: 2px solid ;margin-right: 50px;}
+
+.home{display: flex; justify-content: space-between; background-color:rgb(8, 5, 112) ; }
+
+.home2 ul{display: flex; margin-left: 50px;}
+.home3 {display: flex; }
+.home3 h3{padding: 20px;}
+.home2 li{padding: 5px; list-style: none;}
+.home1 h6 {margin-left: 50px;}
